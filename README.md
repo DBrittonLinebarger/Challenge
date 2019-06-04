@@ -1,4 +1,4 @@
-# Challenge
+# Challenge/Gaussian-sum
 
 ## Description
 
